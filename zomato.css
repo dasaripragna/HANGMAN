@@ -1,0 +1,114 @@
+
+.box1{height: 500px;
+	width: 1270px;
+	background-color: pink;
+	background-image: url(indo.jpg);}
+	
+.log{background-color: white;
+	height: 44px;
+	width: 90px;
+	color: black;
+	position: absolute;
+	top: 16px;
+	left: 900px;
+	font-size: 25px;
+	font-family: sans-serif;
+	font-weight: bolder;
+	border-radius: 20px;
+	text-align: center;
+	border: 2px solid black;
+
+}
+.acc{background-color: ;
+	height: 40px;
+	width: 250px;
+	text-align: center;
+	font-weight: bolder;
+	font-size: 25px;
+	position: absolute;
+	border-radius: 20px;
+	top: 15px;
+	left: 1000px;}
+
+.red{height: 90px;
+	width: 230px;
+	background-color: pink;
+	color: white;
+	text-align: center;
+	font-size: 35px;
+	font-family: sans-serif;
+	font-weight: bolder;
+	position: relative;
+	top: -350px;
+	left: 500px;
+	border-radius: 20px;}
+
+.pera1{position: relative;
+	top: 20px;}
+
+.pera2{
+	font-family:serif ;
+	font-style: italic;
+	font-size: 40px;
+	position: relative;
+	top: -320px;
+	background-color: hotpink;
+	text-align: center;
+	letter-spacing: 1px;
+	border-radius: 90px;
+	width: 895px;
+	left: 200px;
+
+}
+
+.mil{position: relative;
+	top: -300px;
+	height: 40px;
+	width: 230px;
+	left: 100px;
+	font-weight: bolder;
+	font-size: 15px;
+	border-radius: 10px;
+}
+
+.ser{height: 35px;
+	width: 690px;
+	border-radius: 10px;
+	position: relative;
+	top: -300px;
+	left: 110px;
+	font-size: 15px;
+	font-weight: bolder;
+
+}
+
+.btn{height: 37px;
+	width: 150px;
+	border-radius: 10px;
+	position: relative;
+	top: -300px;
+	left: 120px;
+	background-color:red;
+	font-size: 15px;}
+
+.pera3{font-size: 50px;
+	position: relative;
+	top: -200px;}
+
+.pera4{font-size: 25px;
+	color: green;
+	position: relative;
+	top: -250px;
+	letter-spacing: 2px;}
+
+.d1{height: 200px;
+	width: 430px;
+	background-color: hotpink;
+	position: relative;
+	top: -260px;
+
+
+}
+
+
+ n
